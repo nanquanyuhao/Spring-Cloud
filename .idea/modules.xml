@@ -10,9 +10,9 @@
       <module fileurl="file://$PROJECT_DIR$/ekinvoker/ek-invoker.iml" filepath="$PROJECT_DIR$/ekinvoker/ek-invoker.iml" />
       <module fileurl="file://$PROJECT_DIR$/ekprovider/ek-provider.iml" filepath="$PROJECT_DIR$/ekprovider/ek-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/ekserver/ek-server.iml" filepath="$PROJECT_DIR$/ekserver/ek-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ekinvoker/ekinvoker.iml" filepath="$PROJECT_DIR$/ekinvoker/ekinvoker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ekprovider/ekprovider.iml" filepath="$PROJECT_DIR$/ekprovider/ekprovider.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ekserver/ekserver.iml" filepath="$PROJECT_DIR$/ekserver/ekserver.iml" />
+      <module fileurl="file://F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\ekinvoker\ekinvoker.iml" filepath="F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\ekinvoker\ekinvoker.iml" />
+      <module fileurl="file://F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\ekprovider\ekprovider.iml" filepath="F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\ekprovider\ekprovider.iml" />
+      <module fileurl="file://F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\ekserver\ekserver.iml" filepath="F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\ekserver\ekserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/first114/first114.iml" filepath="$PROJECT_DIR$/first114/first114.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstboot/firstboot.iml" filepath="$PROJECT_DIR$/firstboot/firstboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstperson/firstperson.iml" filepath="$PROJECT_DIR$/firstperson/firstperson.iml" />
@@ -20,9 +20,9 @@
       <module fileurl="file://$PROJECT_DIR$/myhealthinvoker/my-health-invoker.iml" filepath="$PROJECT_DIR$/myhealthinvoker/my-health-invoker.iml" />
       <module fileurl="file://$PROJECT_DIR$/myhealthprovider/my-health-provider.iml" filepath="$PROJECT_DIR$/myhealthprovider/my-health-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/myhealthserver/my-health-server.iml" filepath="$PROJECT_DIR$/myhealthserver/my-health-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/myhealthinvoker/myhealthinvoker.iml" filepath="$PROJECT_DIR$/myhealthinvoker/myhealthinvoker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/myhealthprovider/myhealthprovider.iml" filepath="$PROJECT_DIR$/myhealthprovider/myhealthprovider.iml" />
-      <module fileurl="file://$PROJECT_DIR$/myhealthserver/myhealthserver.iml" filepath="$PROJECT_DIR$/myhealthserver/myhealthserver.iml" />
+      <module fileurl="file://F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\myhealthinvoker\myhealthinvoker.iml" filepath="F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\myhealthinvoker\myhealthinvoker.iml" />
+      <module fileurl="file://F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\myhealthprovider\myhealthprovider.iml" filepath="F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\myhealthprovider\myhealthprovider.iml" />
+      <module fileurl="file://F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\myhealthserver\myhealthserver.iml" filepath="F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\myhealthserver\myhealthserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
     </modules>
   </component>
