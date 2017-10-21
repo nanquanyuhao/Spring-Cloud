@@ -7,6 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/cloudperson/cloudperson.iml" filepath="$PROJECT_DIR$/cloudperson/cloudperson.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloudpolice/cloudpolice.iml" filepath="$PROJECT_DIR$/cloudpolice/cloudpolice.iml" />
       <module fileurl="file://$PROJECT_DIR$/configtest/configtest.iml" filepath="$PROJECT_DIR$/configtest/configtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ekinvoker/ek-invoker.iml" filepath="$PROJECT_DIR$/ekinvoker/ek-invoker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ekprovider/ek-provider.iml" filepath="$PROJECT_DIR$/ekprovider/ek-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ekserver/ek-server.iml" filepath="$PROJECT_DIR$/ekserver/ek-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/ekinvoker/ekinvoker.iml" filepath="$PROJECT_DIR$/ekinvoker/ekinvoker.iml" />
       <module fileurl="file://$PROJECT_DIR$/ekprovider/ekprovider.iml" filepath="$PROJECT_DIR$/ekprovider/ekprovider.iml" />
       <module fileurl="file://$PROJECT_DIR$/ekserver/ekserver.iml" filepath="$PROJECT_DIR$/ekserver/ekserver.iml" />
@@ -14,6 +17,9 @@
       <module fileurl="file://$PROJECT_DIR$/firstboot/firstboot.iml" filepath="$PROJECT_DIR$/firstboot/firstboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstperson/firstperson.iml" filepath="$PROJECT_DIR$/firstperson/firstperson.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstpolice/firstpolice.iml" filepath="$PROJECT_DIR$/firstpolice/firstpolice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myhealthinvoker/my-health-invoker.iml" filepath="$PROJECT_DIR$/myhealthinvoker/my-health-invoker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myhealthprovider/my-health-provider.iml" filepath="$PROJECT_DIR$/myhealthprovider/my-health-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myhealthserver/my-health-server.iml" filepath="$PROJECT_DIR$/myhealthserver/my-health-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/myhealthinvoker/myhealthinvoker.iml" filepath="$PROJECT_DIR$/myhealthinvoker/myhealthinvoker.iml" />
       <module fileurl="file://$PROJECT_DIR$/myhealthprovider/myhealthprovider.iml" filepath="$PROJECT_DIR$/myhealthprovider/myhealthprovider.iml" />
       <module fileurl="file://$PROJECT_DIR$/myhealthserver/myhealthserver.iml" filepath="$PROJECT_DIR$/myhealthserver/myhealthserver.iml" />
