@@ -11,10 +11,16 @@
         <module name="cloudperson" />
         <module name="cloudpolice" />
         <module name="configtest" />
+        <module name="ekinvoker" />
+        <module name="ekprovider" />
+        <module name="ekserver" />
         <module name="first114" />
         <module name="firstboot" />
         <module name="firstperson" />
         <module name="firstpolice" />
+        <module name="myhealthinvoker" />
+        <module name="myhealthprovider" />
+        <module name="myhealthserver" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,10 +29,16 @@
       <module name="cloudperson" target="1.5" />
       <module name="cloudpolice" target="1.5" />
       <module name="configtest" target="1.5" />
+      <module name="ekinvoker" target="1.5" />
+      <module name="ekprovider" target="1.5" />
+      <module name="ekserver" target="1.5" />
       <module name="first114" target="1.5" />
       <module name="firstboot" target="1.5" />
       <module name="firstperson" target="1.5" />
       <module name="firstpolice" target="1.5" />
+      <module name="myhealthinvoker" target="1.5" />
+      <module name="myhealthprovider" target="1.5" />
+      <module name="myhealthserver" target="1.5" />
       <module name="springcloud" target="1.5" />
     </bytecodeTargetLevel>
   </component>

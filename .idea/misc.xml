@@ -15,6 +15,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/firstserver/pom.xml" />
+        <option value="$PROJECT_DIR$/healthserver/pom.xml" />
       </set>
     </option>
   </component>

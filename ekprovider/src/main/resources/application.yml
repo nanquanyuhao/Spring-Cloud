@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: ek-provider
+# 每5秒告知注册中心服务可用，默认30
+# 10秒，默认90
+eureka:
+  instance:
+    lease-renewal-interval-in-seconds: 5
+    lease-expiration-duration-in-seconds: 10
+    metadata-map:
+      company-name: nanquanyuhao
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+logging:
+  level:
+    com.netflix: DEBUG
