@@ -1,0 +1,10 @@
+server:
+  port: 8761
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+  server:
+    enable-self-preservation: false
+# 注册中心服务列表清理时间，默认60秒修改为5秒
+    eviction-interval-timer-in-ms: 5000

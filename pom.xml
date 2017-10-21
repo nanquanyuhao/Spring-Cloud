@@ -18,6 +18,13 @@
         <module>cloudpolice</module>
         <module>cloudperson</module>
         <module>cloudclient</module>
+        <module>ekserver</module>
+        <module>ekprovider</module>
+        <module>ekinvoker</module>
+        <module>healthserver</module>
+        <module>myhealthserver</module>
+        <module>myhealthprovider</module>
+        <module>myhealthinvoker</module>
     </modules>
 
 
