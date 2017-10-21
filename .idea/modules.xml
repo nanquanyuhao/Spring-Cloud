@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud114/cloud114.iml" filepath="$PROJECT_DIR$/cloud114/cloud114.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudclient/cloudclient.iml" filepath="$PROJECT_DIR$/cloudclient/cloudclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudperson/cloudperson.iml" filepath="$PROJECT_DIR$/cloudperson/cloudperson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudpolice/cloudpolice.iml" filepath="$PROJECT_DIR$/cloudpolice/cloudpolice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configtest/configtest.iml" filepath="$PROJECT_DIR$/configtest/configtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first114/first114.iml" filepath="$PROJECT_DIR$/first114/first114.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstboot/firstboot.iml" filepath="$PROJECT_DIR$/firstboot/firstboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstperson/firstperson.iml" filepath="$PROJECT_DIR$/firstperson/firstperson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstpolice/firstpolice.iml" filepath="$PROJECT_DIR$/firstpolice/firstpolice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+    </modules>
+  </component>
+</project>
