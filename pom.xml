@@ -31,6 +31,8 @@
         <module>springlbprovider</module>
         <module>springlbinvoker</module>
         <module>resttpltest</module>
+        <module>cxfclient</module>
+        <module>feignclient</module>
     </modules>
 
 

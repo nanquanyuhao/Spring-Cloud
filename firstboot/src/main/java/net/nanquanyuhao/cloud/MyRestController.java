@@ -1,10 +1,7 @@
 package net.nanquanyuhao.cloud;
 
 import org.springframework.http.MediaType;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import javax.servlet.http.HttpServletRequest;
 import java.awt.*;
@@ -24,5 +21,22 @@ public class MyRestController {
         p.setMessage(request.getRequestURL().toString());
 
         return p;
+    }
+
+    @RequestMapping(value = "/person/create", method = RequestMethod.POST, consumes = MediaType.APPLICATION_JSON_VALUE)
+    public String createPerson(@RequestBody Person p) {
+        System.out.println(p.getName() + "---" + p.getAge());
+        return "sucess, id=" + p.getId();
+    }
+
+    /**
+     * 参数与返回值均为XML
+     * @param person
+     * @return
+     */
+    @RequestMapping(value = "/person/createXML", method = RequestMethod.POST, consumes = MediaType.APPLICATION_XML_VALUE, produces = MediaType.APPLICATION_XML_VALUE)
+    public String createXMLPerson(@RequestBody Person person) {
+        System.out.println(person.getName() + "-" + person.getId());
+        return "<result><message>success</message></result>";
     }
 }
