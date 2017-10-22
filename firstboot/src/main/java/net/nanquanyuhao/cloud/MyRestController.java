@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
+import javax.servlet.http.HttpServletRequest;
 import java.awt.*;
 
 /**
@@ -15,11 +16,13 @@ import java.awt.*;
 public class MyRestController {
 
     @RequestMapping(value = "/person/{id}", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
-    public Person getPerson(@PathVariable int id) {
+    public Person getPerson(@PathVariable int id, HttpServletRequest request) {
         Person p = new Person();
         p.setId(id);
         p.setName("angus");
         p.setAge(30);
+        p.setMessage(request.getRequestURL().toString());
+
         return p;
     }
 }

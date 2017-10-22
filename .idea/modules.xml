@@ -23,7 +23,13 @@
       <module fileurl="file://F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\myhealthinvoker\myhealthinvoker.iml" filepath="F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\myhealthinvoker\myhealthinvoker.iml" />
       <module fileurl="file://F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\myhealthprovider\myhealthprovider.iml" filepath="F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\myhealthprovider\myhealthprovider.iml" />
       <module fileurl="file://F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\myhealthserver\myhealthserver.iml" filepath="F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\myhealthserver\myhealthserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbonclient/ribbonclient.iml" filepath="$PROJECT_DIR$/ribbonclient/ribbonclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbonservice/ribbonservice.iml" filepath="$PROJECT_DIR$/ribbonservice/ribbonservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springlbinvoker/springlbinvoker.iml" filepath="$PROJECT_DIR$/springlbinvoker/springlbinvoker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springlbprovider/springlbprovider.iml" filepath="$PROJECT_DIR$/springlbprovider/springlbprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springlbserver/springlbserver.iml" filepath="$PROJECT_DIR$/springlbserver/springlbserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userribbon/userribbon.iml" filepath="$PROJECT_DIR$/userribbon/userribbon.iml" />
     </modules>
   </component>
 </project>
