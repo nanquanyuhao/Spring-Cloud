@@ -6,15 +6,15 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import java.util.Scanner;
 
 /**
- * Created by nanquanyuhao on 2017/10/21.
+ * Created by nanquanyuhao on 2017/10/22.
  */
 @SpringBootApplication
-public class FirstApp {
+public class ServiceApp {
 
-    public static void main(String[] args){
+    public static void main (String[] args) throws Exception{
         Scanner scan = new Scanner(System.in);
         String port = scan.nextLine();
 
-        new SpringApplicationBuilder(FirstApp.class).properties("server.port=" + port).run(args);
+        new SpringApplicationBuilder(ServiceApp.class).properties("server.port=" + port).run(args);
     }
 }

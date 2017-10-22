@@ -1,13 +1,12 @@
 package net.nanquanyuhao.cloud;
 
 /**
- * Created by nanquanyuhao on 2017/10/21.
+ * Created by nanquanyuhao on 2017/10/22.
  */
 public class Person {
 
     private int id;
     private String name;
-    private int age;
     private String message;
 
     public int getId() {
@@ -24,14 +23,6 @@ public class Person {
 
     public void setName(String name) {
         this.name = name;
-    }
-
-    public int getAge() {
-        return age;
-    }
-
-    public void setAge(int age) {
-        this.age = age;
     }
 
     public String getMessage() {

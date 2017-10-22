@@ -27,6 +27,9 @@
         <module name="myhealthinvoker" />
         <module name="myhealthprovider" />
         <module name="myhealthserver" />
+        <module name="ribbonclient" />
+        <module name="ribbonservice" />
+        <module name="userribbon" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -51,7 +54,10 @@
       <module name="myhealthinvoker" target="1.5" />
       <module name="myhealthprovider" target="1.5" />
       <module name="myhealthserver" target="1.5" />
+      <module name="ribbonclient" target="1.5" />
+      <module name="ribbonservice" target="1.5" />
       <module name="springcloud" target="1.5" />
+      <module name="userribbon" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

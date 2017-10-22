@@ -25,6 +25,9 @@
         <module>myhealthserver</module>
         <module>myhealthprovider</module>
         <module>myhealthinvoker</module>
+        <module>ribbonservice</module>
+        <module>ribbonclient</module>
+        <module>userribbon</module>
     </modules>
 
 
