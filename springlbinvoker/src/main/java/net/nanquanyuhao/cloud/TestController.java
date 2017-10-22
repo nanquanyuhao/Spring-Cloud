@@ -1,6 +1,5 @@
 package net.nanquanyuhao.cloud;
 
-import com.netflix.loadbalancer.ILoadBalancer;
 import com.netflix.loadbalancer.ZoneAwareLoadBalancer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.ServiceInstance;
@@ -37,7 +36,7 @@ public class TestController {
     public String router() {
         RestTemplate tpl = getRestTemplate();
 
-        // 即调用服务为 spring-lb-provider 的时候，就会启用 MyClient
+        // 即调用服务为 spring-lb-provider 的时候，如果 MyClient 配置了此服务的规则，就会启用
         String json = tpl.getForObject("http://spring-lb-provider/call/1", String.class);
         return json;
     }

@@ -30,6 +30,7 @@
         <module>springlbserver</module>
         <module>springlbprovider</module>
         <module>springlbinvoker</module>
+        <module>resttpltest</module>
     </modules>
 
 
