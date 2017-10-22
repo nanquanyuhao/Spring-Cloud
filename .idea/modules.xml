@@ -26,6 +26,9 @@
       <module fileurl="file://$PROJECT_DIR$/ribbonclient/ribbonclient.iml" filepath="$PROJECT_DIR$/ribbonclient/ribbonclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/ribbonservice/ribbonservice.iml" filepath="$PROJECT_DIR$/ribbonservice/ribbonservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springlbinvoker/springlbinvoker.iml" filepath="$PROJECT_DIR$/springlbinvoker/springlbinvoker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springlbprovider/springlbprovider.iml" filepath="$PROJECT_DIR$/springlbprovider/springlbprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springlbserver/springlbserver.iml" filepath="$PROJECT_DIR$/springlbserver/springlbserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/userribbon/userribbon.iml" filepath="$PROJECT_DIR$/userribbon/userribbon.iml" />
     </modules>
   </component>
