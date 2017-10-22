@@ -11,12 +11,14 @@
         <module name="cloudperson" />
         <module name="cloudpolice" />
         <module name="configtest" />
+        <module name="cxfclient" />
         <module name="ek-invoker" />
         <module name="ek-provider" />
         <module name="ek-server" />
         <module name="ekinvoker" />
         <module name="ekprovider" />
         <module name="ekserver" />
+        <module name="feignclient" />
         <module name="first114" />
         <module name="firstboot" />
         <module name="firstperson" />
@@ -42,12 +44,14 @@
       <module name="cloudperson" target="1.5" />
       <module name="cloudpolice" target="1.5" />
       <module name="configtest" target="1.5" />
+      <module name="cxfclient" target="1.5" />
       <module name="ek-invoker" target="1.5" />
       <module name="ek-provider" target="1.5" />
       <module name="ek-server" target="1.5" />
       <module name="ekinvoker" target="1.5" />
       <module name="ekprovider" target="1.5" />
       <module name="ekserver" target="1.5" />
+      <module name="feignclient" target="1.5" />
       <module name="first114" target="1.5" />
       <module name="firstboot" target="1.5" />
       <module name="firstperson" target="1.5" />
