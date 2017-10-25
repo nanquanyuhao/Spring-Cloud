@@ -7,6 +7,7 @@ import org.springframework.boot.actuate.health.Status;
 import org.springframework.stereotype.Component;
 
 /**
+ * 自定义健康指示器
  * Created by nanquanyuhao on 2017/10/22.
  */
 @Component
