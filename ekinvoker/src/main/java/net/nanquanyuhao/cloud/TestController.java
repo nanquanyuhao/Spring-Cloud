@@ -33,7 +33,7 @@ public class TestController {
     @ResponseBody
     public String router() {
         RestTemplate tpl = getRestTemplate();
-        String json = tpl.getForObject("http://first-police/call/1", String.class);
+        String json = tpl.getForObject("http://ek-provider/call/1", String.class);
         return json;
     }
 

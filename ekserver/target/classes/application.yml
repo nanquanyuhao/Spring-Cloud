@@ -5,6 +5,7 @@ eureka:
     register-with-eureka: false
     fetch-registry: false
   server:
+# 设为false，关闭自我保护，默认开启，开启情况Eureka Server将会尝试保护其服务注册表中的信息，不再删除服务注册表中的数据（也就是不会注销任何微服务）
     enable-self-preservation: false
-# 注册中心服务列表清理时间，默认60秒修改为5秒
+# 注册中心清理无效节点的时间间隔，默认60秒修改为5秒
     eviction-interval-timer-in-ms: 5000

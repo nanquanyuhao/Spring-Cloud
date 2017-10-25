@@ -2,11 +2,13 @@ spring:
   application:
     name: ek-provider
 # 每5秒告知注册中心服务可用，默认30
-# 10秒，默认90
 eureka:
   instance:
+# eureka client发送心跳给server端的频率。超过此时间未收到client的心跳，则将摘除该instance，默认30。
     lease-renewal-interval-in-seconds: 5
+# eureka server至上一次收到client的心跳之后，等待下一次心跳的超时时间，在这个时间内若没收到下一次心跳，则将移除该instance，默认90。
     lease-expiration-duration-in-seconds: 10
+# 可以通过eureka.instance.metadataMap修改元数据，这些元数据不会改变客户端的行为
     metadata-map:
       company-name: nanquanyuhao
   client:
