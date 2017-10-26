@@ -11,6 +11,8 @@ public class TestMyRule {
 	public static void main(String[] args) {
 		BaseLoadBalancer lb = new BaseLoadBalancer();
 		MyRule rule = new MyRule();
+
+		// 双向绑定，负载规则设置负载均衡器，负载均衡器设置负载规则
 		rule.setLoadBalancer(lb);
 		lb.setRule(rule);
 		
