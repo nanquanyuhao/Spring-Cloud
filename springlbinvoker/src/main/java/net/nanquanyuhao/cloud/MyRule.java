@@ -7,6 +7,9 @@ import com.netflix.loadbalancer.Server;
 import java.util.List;
 import java.util.Random;
 
+/**
+ * 负载均衡规则编写
+ */
 public class MyRule implements IRule {
 	
 	private ILoadBalancer lb;
