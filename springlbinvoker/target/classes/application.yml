@@ -3,9 +3,9 @@ server:
 spring:
   application:
     name: spring-lb-invoker
-#default:
-ribbon:
-  NFLoadBalancerRuleClassName: net.nanquanyuhao.cloud.MyRule
+default:
+  ribbon:
+    NFLoadBalancerRuleClassName: net.nanquanyuhao.cloud.MyRule
 eureka:
   client:
     serviceUrl:
