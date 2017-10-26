@@ -12,6 +12,7 @@ import org.springframework.web.client.RestTemplate;
 @Configuration
 public class MyController {
 
+	// 添加 @MyLoadBalanced 注解，确保会将 RestTemplate 实例化后走 MyConfig 类，进行拦截器的添加
 	@Bean
 	@MyLoadBalanced
 	public RestTemplate tplA() {

@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Bean;
 public class MyConfig {
 
     @Bean
-    public IRule grtRule(){
+    public IRule getRule(){
         return new MyRule();
     }
 }

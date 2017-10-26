@@ -7,6 +7,9 @@ import com.netflix.loadbalancer.ILoadBalancer;
 import com.netflix.loadbalancer.IRule;
 import com.netflix.loadbalancer.Server;
 
+/**
+ * 实现 IRule 接口方法
+ */
 public class MyRule implements IRule {
 	
 	private ILoadBalancer lb;

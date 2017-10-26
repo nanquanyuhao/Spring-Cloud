@@ -15,6 +15,7 @@ import java.util.Collection;
 import java.util.HashMap;
 
 /**
+ * 使用自己实现的 HttpClient 方式完成Feign的客户端访问实现
  * Created by nanquanyuhao on 2017/10/22.
  */
 public class MyClient implements Client {
