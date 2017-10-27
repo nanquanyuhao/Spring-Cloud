@@ -11,10 +11,31 @@
         <module name="cloudperson" />
         <module name="cloudpolice" />
         <module name="configtest" />
+        <module name="cxfclient" />
+        <module name="ek-invoker" />
+        <module name="ek-provider" />
+        <module name="ek-server" />
+        <module name="ekinvoker" />
+        <module name="ekprovider" />
+        <module name="ekserver" />
+        <module name="feignclient" />
         <module name="first114" />
         <module name="firstboot" />
         <module name="firstperson" />
         <module name="firstpolice" />
+        <module name="my-health-invoker" />
+        <module name="my-health-provider" />
+        <module name="my-health-server" />
+        <module name="myhealthinvoker" />
+        <module name="myhealthprovider" />
+        <module name="myhealthserver" />
+        <module name="resttpltest" />
+        <module name="ribbonclient" />
+        <module name="ribbonservice" />
+        <module name="springlbinvoker" />
+        <module name="springlbprovider" />
+        <module name="springlbserver" />
+        <module name="userribbon" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,11 +44,32 @@
       <module name="cloudperson" target="1.5" />
       <module name="cloudpolice" target="1.5" />
       <module name="configtest" target="1.5" />
+      <module name="cxfclient" target="1.5" />
+      <module name="ek-invoker" target="1.5" />
+      <module name="ek-provider" target="1.5" />
+      <module name="ek-server" target="1.5" />
+      <module name="ekinvoker" target="1.5" />
+      <module name="ekprovider" target="1.5" />
+      <module name="ekserver" target="1.5" />
+      <module name="feignclient" target="1.5" />
       <module name="first114" target="1.5" />
       <module name="firstboot" target="1.5" />
       <module name="firstperson" target="1.5" />
       <module name="firstpolice" target="1.5" />
+      <module name="my-health-invoker" target="1.5" />
+      <module name="my-health-provider" target="1.5" />
+      <module name="my-health-server" target="1.5" />
+      <module name="myhealthinvoker" target="1.5" />
+      <module name="myhealthprovider" target="1.5" />
+      <module name="myhealthserver" target="1.5" />
+      <module name="resttpltest" target="1.5" />
+      <module name="ribbonclient" target="1.5" />
+      <module name="ribbonservice" target="1.5" />
       <module name="springcloud" target="1.5" />
+      <module name="springlbinvoker" target="1.5" />
+      <module name="springlbprovider" target="1.5" />
+      <module name="springlbserver" target="1.5" />
+      <module name="userribbon" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
