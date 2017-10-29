@@ -1,0 +1,22 @@
+
+[HelloClient#hello] ---> GET http://localhost:8080/hello HTTP/1.1
+[HelloClient#hello] <--- HTTP/1.1 200 (149ms)
+
+[HelloClient#hello] ---> GET http://localhost:8080/hello HTTP/1.1
+[HelloClient#hello] ---> END HTTP (0-byte body)
+[HelloClient#hello] <--- HTTP/1.1 200 (160ms)
+[HelloClient#hello] content-length: 11
+[HelloClient#hello] content-type: text/plain;charset=UTF-8
+[HelloClient#hello] date: Fri, 27 Oct 2017 04:30:25 GMT
+[HelloClient#hello] <--- END HTTP (11-byte body)
+
+
+[HelloClient#hello] ---> GET http://localhost:8080/hello HTTP/1.1
+[HelloClient#hello] ---> END HTTP (0-byte body)
+[HelloClient#hello] <--- HTTP/1.1 200 (156ms)
+[HelloClient#hello] content-length: 11
+[HelloClient#hello] content-type: text/plain;charset=UTF-8
+[HelloClient#hello] date: Fri, 27 Oct 2017 04:30:42 GMT
+[HelloClient#hello] 
+[HelloClient#hello] Hello World
+[HelloClient#hello] <--- END HTTP (11-byte body)

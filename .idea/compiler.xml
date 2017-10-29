@@ -32,6 +32,9 @@
         <module name="resttpltest" />
         <module name="ribbonclient" />
         <module name="ribbonservice" />
+        <module name="springfeigninvoker" />
+        <module name="springfeignprovider" />
+        <module name="springfeignserver" />
         <module name="springlbinvoker" />
         <module name="springlbprovider" />
         <module name="springlbserver" />
@@ -66,6 +69,9 @@
       <module name="ribbonclient" target="1.5" />
       <module name="ribbonservice" target="1.5" />
       <module name="springcloud" target="1.5" />
+      <module name="springfeigninvoker" target="1.5" />
+      <module name="springfeignprovider" target="1.5" />
+      <module name="springfeignserver" target="1.5" />
       <module name="springlbinvoker" target="1.5" />
       <module name="springlbprovider" target="1.5" />
       <module name="springlbserver" target="1.5" />

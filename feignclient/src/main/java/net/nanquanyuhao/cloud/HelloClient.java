@@ -6,6 +6,7 @@ import feign.RequestLine;
 
 public interface HelloClient {
 
+	// @RequestLine 为Feign自带的注解，还可以使用JavaEE规范的注解
 	@RequestLine("GET /hello")
 	String hello();
 	
