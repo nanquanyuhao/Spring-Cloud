@@ -17,6 +17,8 @@
       <module fileurl="file://$PROJECT_DIR$/feignclient/feignclient.iml" filepath="$PROJECT_DIR$/feignclient/feignclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/first114/first114.iml" filepath="$PROJECT_DIR$/first114/first114.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstboot/firstboot.iml" filepath="$PROJECT_DIR$/firstboot/firstboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firsthyclient/firsthyclient.iml" filepath="$PROJECT_DIR$/firsthyclient/firsthyclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firsthyserver/firsthyserver.iml" filepath="$PROJECT_DIR$/firsthyserver/firsthyserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstperson/firstperson.iml" filepath="$PROJECT_DIR$/firstperson/firstperson.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstpolice/firstpolice.iml" filepath="$PROJECT_DIR$/firstpolice/firstpolice.iml" />
       <module fileurl="file://$PROJECT_DIR$/myhealthinvoker/my-health-invoker.iml" filepath="$PROJECT_DIR$/myhealthinvoker/my-health-invoker.iml" />

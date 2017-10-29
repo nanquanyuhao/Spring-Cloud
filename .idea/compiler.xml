@@ -21,6 +21,8 @@
         <module name="feignclient" />
         <module name="first114" />
         <module name="firstboot" />
+        <module name="firsthyclient" />
+        <module name="firsthyserver" />
         <module name="firstperson" />
         <module name="firstpolice" />
         <module name="my-health-invoker" />
@@ -57,6 +59,8 @@
       <module name="feignclient" target="1.5" />
       <module name="first114" target="1.5" />
       <module name="firstboot" target="1.5" />
+      <module name="firsthyclient" target="1.5" />
+      <module name="firsthyserver" target="1.5" />
       <module name="firstperson" target="1.5" />
       <module name="firstpolice" target="1.5" />
       <module name="my-health-invoker" target="1.5" />

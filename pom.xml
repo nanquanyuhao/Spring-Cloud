@@ -36,6 +36,8 @@
         <module>springfeignserver</module>
         <module>springfeignprovider</module>
         <module>springfeigninvoker</module>
+        <module>firsthyserver</module>
+        <module>firsthyclient</module>
     </modules>
 
 
