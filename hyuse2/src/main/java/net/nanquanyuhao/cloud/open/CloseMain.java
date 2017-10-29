@@ -7,6 +7,10 @@ import com.netflix.hystrix.HystrixCommandMetrics;
 import com.netflix.hystrix.HystrixCommandProperties;
 
 /**
+ * 1.开始断路器默认关闭
+ * 2.根据程序，一上来使用长时间的停顿，导致断路器开启
+ * 3.断路器开启后，切换为短时间停顿，断路器开启5s后会自动探测是否可成功，结果成功
+ * 4.断路器关闭，恢复正常，程序最终执行完毕
  * Created by nanquanyuhao on 2017/10/29.
  */
 public class CloseMain {
