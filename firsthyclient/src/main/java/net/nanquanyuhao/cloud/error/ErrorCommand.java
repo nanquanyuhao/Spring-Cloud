@@ -27,7 +27,7 @@ public class ErrorCommand extends HystrixCommand<String> {
     }
 
     /**
-     * run()方法超时之后，用此方法代替进行返回，实现容错逻辑
+     * run()方法超时之后，用此方法代替进行返回，实现容错逻辑，默认超时时间为1s
      * @return
      */
     protected String getFallback(){

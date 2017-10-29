@@ -38,6 +38,7 @@
         <module>springfeigninvoker</module>
         <module>firsthyserver</module>
         <module>firsthyclient</module>
+        <module>hyuse1</module>
     </modules>
 
 
