@@ -26,6 +26,7 @@
         <module name="firstperson" />
         <module name="firstpolice" />
         <module name="hyuse1" />
+        <module name="hyuse2" />
         <module name="my-health-invoker" />
         <module name="my-health-provider" />
         <module name="my-health-server" />
@@ -65,6 +66,7 @@
       <module name="firstperson" target="1.5" />
       <module name="firstpolice" target="1.5" />
       <module name="hyuse1" target="1.5" />
+      <module name="hyuse2" target="1.5" />
       <module name="my-health-invoker" target="1.5" />
       <module name="my-health-provider" target="1.5" />
       <module name="my-health-server" target="1.5" />

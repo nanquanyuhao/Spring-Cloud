@@ -39,6 +39,7 @@
         <module>firsthyserver</module>
         <module>firsthyclient</module>
         <module>hyuse1</module>
+        <module>hyuse2</module>
     </modules>
 
 

@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/firstperson/firstperson.iml" filepath="$PROJECT_DIR$/firstperson/firstperson.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstpolice/firstpolice.iml" filepath="$PROJECT_DIR$/firstpolice/firstpolice.iml" />
       <module fileurl="file://$PROJECT_DIR$/hyuse1/hyuse1.iml" filepath="$PROJECT_DIR$/hyuse1/hyuse1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hyuse2/hyuse2.iml" filepath="$PROJECT_DIR$/hyuse2/hyuse2.iml" />
       <module fileurl="file://$PROJECT_DIR$/myhealthinvoker/my-health-invoker.iml" filepath="$PROJECT_DIR$/myhealthinvoker/my-health-invoker.iml" />
       <module fileurl="file://$PROJECT_DIR$/myhealthprovider/my-health-provider.iml" filepath="$PROJECT_DIR$/myhealthprovider/my-health-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/myhealthserver/my-health-server.iml" filepath="$PROJECT_DIR$/myhealthserver/my-health-server.iml" />
