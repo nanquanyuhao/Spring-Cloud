@@ -44,6 +44,7 @@
         <module>springhyserver</module>
         <module>springhymember</module>
         <module>springhysale</module>
+        <module>springhydashboard</module>
     </modules>
 
 

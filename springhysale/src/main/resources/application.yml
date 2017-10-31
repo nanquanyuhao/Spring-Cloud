@@ -3,6 +3,23 @@ server:
 spring:
   application:
     name: spring-hy-sale
+# 打开与hystrix一起使用feign时的开关
+feign:
+  hystrix:
+    enabled: true
+hystrix:
+  command:
+# 视频教材中说明配置为 default ，则全局遵守此规则
+    HelloClient#toHello():
+      execution:
+        isolaction:
+          thread:
+# 指定HelloClient类的toHello()方法执行大于500毫秒即执行回退方法
+            timeoutInMilliseconds: 500
+      circuitBreaker:
+# 配置10秒内有3个请求就满足熔断的第一个条件，默认20个
+        requestVolumeThreshold: 3
+
 eureka:
   client:
     serviceUrl:

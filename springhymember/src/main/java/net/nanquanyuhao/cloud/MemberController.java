@@ -19,4 +19,15 @@ public class MemberController {
         p.setName("nanquanyuhao");
         return p;
     }
+
+    @RequestMapping(value = "/hello", method = RequestMethod.GET)
+    public String hello(){
+        return "hello";
+    }
+
+    @RequestMapping(value = "/toHello", method = RequestMethod.GET)
+    public String toHello()throws Exception{
+        Thread.sleep(1000);
+        return "timeout hello";
+    }
 }
