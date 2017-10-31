@@ -45,6 +45,8 @@
       <module fileurl="file://$PROJECT_DIR$/springlbprovider/springlbprovider.iml" filepath="$PROJECT_DIR$/springlbprovider/springlbprovider.iml" />
       <module fileurl="file://$PROJECT_DIR$/springlbserver/springlbserver.iml" filepath="$PROJECT_DIR$/springlbserver/springlbserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/userribbon/userribbon.iml" filepath="$PROJECT_DIR$/userribbon/userribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuulfirstrouter/zuulfirstrouter.iml" filepath="$PROJECT_DIR$/zuulfirstrouter/zuulfirstrouter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuulfirstsource/zuulfirstsource.iml" filepath="$PROJECT_DIR$/zuulfirstsource/zuulfirstsource.iml" />
     </modules>
   </component>
 </project>

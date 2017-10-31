@@ -48,6 +48,8 @@
         <module name="springlbprovider" />
         <module name="springlbserver" />
         <module name="userribbon" />
+        <module name="zuulfirstrouter" />
+        <module name="zuulfirstsource" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -94,6 +96,8 @@
       <module name="springlbprovider" target="1.5" />
       <module name="springlbserver" target="1.5" />
       <module name="userribbon" target="1.5" />
+      <module name="zuulfirstrouter" target="1.5" />
+      <module name="zuulfirstsource" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
