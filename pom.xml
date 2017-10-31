@@ -41,6 +41,10 @@
         <module>hyuse1</module>
         <module>hyuse2</module>
         <module>hyuse3</module>
+        <module>springhyserver</module>
+        <module>springhymember</module>
+        <module>springhysale</module>
+        <module>springhydashboard</module>
     </modules>
 
 

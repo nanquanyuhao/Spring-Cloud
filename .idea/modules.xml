@@ -37,6 +37,10 @@
       <module fileurl="file://$PROJECT_DIR$/springfeigninvoker/springfeigninvoker.iml" filepath="$PROJECT_DIR$/springfeigninvoker/springfeigninvoker.iml" />
       <module fileurl="file://$PROJECT_DIR$/springfeignprovider/springfeignprovider.iml" filepath="$PROJECT_DIR$/springfeignprovider/springfeignprovider.iml" />
       <module fileurl="file://$PROJECT_DIR$/springfeignserver/springfeignserver.iml" filepath="$PROJECT_DIR$/springfeignserver/springfeignserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springhydashboard/springhydashboard.iml" filepath="$PROJECT_DIR$/springhydashboard/springhydashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springhymember/springhymember.iml" filepath="$PROJECT_DIR$/springhymember/springhymember.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springhysale/springhysale.iml" filepath="$PROJECT_DIR$/springhysale/springhysale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springhyserver/springhyserver.iml" filepath="$PROJECT_DIR$/springhyserver/springhyserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/springlbinvoker/springlbinvoker.iml" filepath="$PROJECT_DIR$/springlbinvoker/springlbinvoker.iml" />
       <module fileurl="file://$PROJECT_DIR$/springlbprovider/springlbprovider.iml" filepath="$PROJECT_DIR$/springlbprovider/springlbprovider.iml" />
       <module fileurl="file://$PROJECT_DIR$/springlbserver/springlbserver.iml" filepath="$PROJECT_DIR$/springlbserver/springlbserver.iml" />
