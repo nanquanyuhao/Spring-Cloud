@@ -1,0 +1,15 @@
+server:
+  port: 9000
+spring:
+  application:
+    name: spring-zuul-gateway
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+zuul:
+  routes:
+# 符合/sale/** 路径规则的均转发给 spring-zuul-sale 处理
+    sale:
+      path: /sale/**
+      serviceId: spring-zuul-sale
