@@ -44,7 +44,13 @@
       <module fileurl="file://$PROJECT_DIR$/springlbinvoker/springlbinvoker.iml" filepath="$PROJECT_DIR$/springlbinvoker/springlbinvoker.iml" />
       <module fileurl="file://$PROJECT_DIR$/springlbprovider/springlbprovider.iml" filepath="$PROJECT_DIR$/springlbprovider/springlbprovider.iml" />
       <module fileurl="file://$PROJECT_DIR$/springlbserver/springlbserver.iml" filepath="$PROJECT_DIR$/springlbserver/springlbserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springzuulgateway/springzuulgateway.iml" filepath="$PROJECT_DIR$/springzuulgateway/springzuulgateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springzuulmember/springzuulmember.iml" filepath="$PROJECT_DIR$/springzuulmember/springzuulmember.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springzuulsale/springzuulsale.iml" filepath="$PROJECT_DIR$/springzuulsale/springzuulsale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springzuulserver/springzuulserver.iml" filepath="$PROJECT_DIR$/springzuulserver/springzuulserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/userribbon/userribbon.iml" filepath="$PROJECT_DIR$/userribbon/userribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuulfirstrouter/zuulfirstrouter.iml" filepath="$PROJECT_DIR$/zuulfirstrouter/zuulfirstrouter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuulfirstsource/zuulfirstsource.iml" filepath="$PROJECT_DIR$/zuulfirstsource/zuulfirstsource.iml" />
     </modules>
   </component>
 </project>

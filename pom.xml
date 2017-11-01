@@ -45,6 +45,12 @@
         <module>springhymember</module>
         <module>springhysale</module>
         <module>springhydashboard</module>
+        <module>zuulfirstsource</module>
+        <module>zuulfirstrouter</module>
+        <module>springzuulserver</module>
+        <module>springzuulmember</module>
+        <module>springzuulsale</module>
+        <module>springzuulgateway</module>
     </modules>
 
 
