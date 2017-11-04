@@ -7,9 +7,31 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
+# 默认情况 Actuator 开启端点认证，即使引入了 spring-boot-starter-actuator 并使用 @EnableEurekaClient 仍无法访问 routes 服务，所以需要关闭安全认证
+management:
+  security:
+    enabled: false
 zuul:
   routes:
-# 符合/sale/** 路径规则的均转发给 spring-zuul-sale 处理，自带负载均衡
+# Ribbon 路由，符合/sale/** 路径规则的均转发给 spring-zuul-sale 处理，自带负载均衡
     sale:
       path: /sale/**
       serviceId: spring-zuul-sale
+# Ribbon 路由的简写形式，等同于上面结果
+    spring-zuul-sale:
+      path: /sale/**
+# 以下既不是简单路由也不是跳转路由，配置的 url 会被当做 serviceId 使用
+    abc:
+      path: /sale/**
+      url: spring-zuul-sale
+# 简单路由（http 或 https开头）， /routeTest/163 作为路径会访问163网站
+    routeTest:
+      path: /routeTest/163
+      url: http://www.163.com/
+# 简单路由，不加 path 属性，即转发ID即为path
+    route163:
+      url: http://www.163.com/
+# 跳转路由（forward: 开头）
+    testForward:
+      path: /test/**
+      url: forward:/source/hello
