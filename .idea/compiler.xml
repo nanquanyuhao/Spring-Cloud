@@ -25,6 +25,7 @@
         <module name="firsthyserver" />
         <module name="firstperson" />
         <module name="firstpolice" />
+        <module name="firstrabbit" />
         <module name="hyuse1" />
         <module name="hyuse2" />
         <module name="hyuse3" />
@@ -56,7 +57,7 @@
         <module name="zuulfirstsource" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="cloud114" target="1.5" />
       <module name="cloudclient" target="1.5" />
       <module name="cloudperson" target="1.5" />
@@ -66,9 +67,6 @@
       <module name="ek-invoker" target="1.5" />
       <module name="ek-provider" target="1.5" />
       <module name="ek-server" target="1.5" />
-      <module name="ekinvoker" target="1.5" />
-      <module name="ekprovider" target="1.5" />
-      <module name="ekserver" target="1.5" />
       <module name="feignclient" target="1.5" />
       <module name="first114" target="1.5" />
       <module name="firstboot" target="1.5" />
@@ -76,15 +74,13 @@
       <module name="firsthyserver" target="1.5" />
       <module name="firstperson" target="1.5" />
       <module name="firstpolice" target="1.5" />
+      <module name="firstrabbit" target="1.5" />
       <module name="hyuse1" target="1.5" />
       <module name="hyuse2" target="1.5" />
       <module name="hyuse3" target="1.5" />
       <module name="my-health-invoker" target="1.5" />
       <module name="my-health-provider" target="1.5" />
       <module name="my-health-server" target="1.5" />
-      <module name="myhealthinvoker" target="1.5" />
-      <module name="myhealthprovider" target="1.5" />
-      <module name="myhealthserver" target="1.5" />
       <module name="resttpltest" target="1.5" />
       <module name="ribbonclient" target="1.5" />
       <module name="ribbonservice" target="1.5" />

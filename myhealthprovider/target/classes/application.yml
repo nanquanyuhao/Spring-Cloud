@@ -5,7 +5,7 @@ endpoints:
   sensitive: false
 eureka:
   client:
-# 每10秒向注册中心更新次状态，默认30
+# 每10秒向注册中心更新次健康状态，默认30
     instance-info-replication-interval-seconds: 10
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/

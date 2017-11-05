@@ -51,6 +51,7 @@
         <module>springzuulmember</module>
         <module>springzuulsale</module>
         <module>springzuulgateway</module>
+        <module>firstrabbit</module>
     </modules>
 
 
