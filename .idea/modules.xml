@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/firstboot/firstboot.iml" filepath="$PROJECT_DIR$/firstboot/firstboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/firsthyclient/firsthyclient.iml" filepath="$PROJECT_DIR$/firsthyclient/firsthyclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/firsthyserver/firsthyserver.iml" filepath="$PROJECT_DIR$/firsthyserver/firsthyserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstkafka/firstkafka.iml" filepath="$PROJECT_DIR$/firstkafka/firstkafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstperson/firstperson.iml" filepath="$PROJECT_DIR$/firstperson/firstperson.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstpolice/firstpolice.iml" filepath="$PROJECT_DIR$/firstpolice/firstpolice.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstrabbit/firstrabbit.iml" filepath="$PROJECT_DIR$/firstrabbit/firstrabbit.iml" />

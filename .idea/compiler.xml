@@ -23,6 +23,7 @@
         <module name="firstboot" />
         <module name="firsthyclient" />
         <module name="firsthyserver" />
+        <module name="firstkafka" />
         <module name="firstperson" />
         <module name="firstpolice" />
         <module name="firstrabbit" />
@@ -72,6 +73,7 @@
       <module name="firstboot" target="1.5" />
       <module name="firsthyclient" target="1.5" />
       <module name="firsthyserver" target="1.5" />
+      <module name="firstkafka" target="1.5" />
       <module name="firstperson" target="1.5" />
       <module name="firstpolice" target="1.5" />
       <module name="firstrabbit" target="1.5" />

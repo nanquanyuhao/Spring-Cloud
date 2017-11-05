@@ -52,6 +52,7 @@
         <module>springzuulsale</module>
         <module>springzuulgateway</module>
         <module>firstrabbit</module>
+        <module>firstkafka</module>
     </modules>
 
 
