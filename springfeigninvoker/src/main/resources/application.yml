@@ -1,0 +1,9 @@
+server:
+  port: 9000
+spring:
+  application:
+    name: spring-feign-invoker
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/

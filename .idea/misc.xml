@@ -16,6 +16,7 @@
       <set>
         <option value="$PROJECT_DIR$/firstserver/pom.xml" />
         <option value="$PROJECT_DIR$/healthserver/pom.xml" />
+        <option value="$PROJECT_DIR$/springmsgcomsumer2/pom.xml" />
       </set>
     </option>
   </component>

@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-hy-member
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/

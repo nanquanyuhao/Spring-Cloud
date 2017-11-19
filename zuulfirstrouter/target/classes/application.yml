@@ -1,0 +1,8 @@
+server:
+  port: 9000
+# 转发规则配置
+zuul:
+  routes:
+# source 为路由名称
+    source:
+      url: http://localhost:8080

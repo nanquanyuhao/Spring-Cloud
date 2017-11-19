@@ -11,13 +11,14 @@
 
     <artifactId>first-boot</artifactId>
 
-    <!-- Add typical dependencies for a web application -->
     <dependencies>
+        <!-- Add typical dependencies for a web application -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
             <version>1.5.8.RELEASE</version>
         </dependency>
+
         <dependency>
             <groupId>com.fasterxml.jackson.jaxrs</groupId>
             <artifactId>jackson-jaxrs-xml-provider</artifactId>
