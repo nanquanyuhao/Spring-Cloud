@@ -21,6 +21,8 @@
         <module name="feignclient" />
         <module name="first114" />
         <module name="firstboot" />
+        <module name="firstconfigclient" />
+        <module name="firstconfigserver" />
         <module name="firsthyclient" />
         <module name="firsthyserver" />
         <module name="firstkafka" />
@@ -77,6 +79,8 @@
       <module name="feignclient" target="1.5" />
       <module name="first114" target="1.5" />
       <module name="firstboot" target="1.5" />
+      <module name="firstconfigclient" target="1.5" />
+      <module name="firstconfigserver" target="1.5" />
       <module name="firsthyclient" target="1.5" />
       <module name="firsthyserver" target="1.5" />
       <module name="firstkafka" target="1.5" />

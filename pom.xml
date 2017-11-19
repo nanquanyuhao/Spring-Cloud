@@ -59,6 +59,8 @@
         <module>springmsgconsumer2</module>
         <module>springmsgconsumer3</module>
         <module>testbootstrap</module>
+        <module>firstconfigserver</module>
+        <module>firstconfigclient</module>
     </modules>
 
 
