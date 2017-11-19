@@ -49,6 +49,9 @@
         <module name="springlbinvoker" />
         <module name="springlbprovider" />
         <module name="springlbserver" />
+        <module name="springmsgconsumer" />
+        <module name="springmsgproducer" />
+        <module name="springmsgserver" />
         <module name="springzuulgateway" />
         <module name="springzuulmember" />
         <module name="springzuulsale" />
@@ -97,6 +100,9 @@
       <module name="springlbinvoker" target="1.5" />
       <module name="springlbprovider" target="1.5" />
       <module name="springlbserver" target="1.5" />
+      <module name="springmsgconsumer" target="1.5" />
+      <module name="springmsgproducer" target="1.5" />
+      <module name="springmsgserver" target="1.5" />
       <module name="springzuulgateway" target="1.5" />
       <module name="springzuulmember" target="1.5" />
       <module name="springzuulsale" target="1.5" />

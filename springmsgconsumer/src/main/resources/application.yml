@@ -1,0 +1,12 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: spring-msg-consumer
+  rabbitmq:
+# 此处使用的rabbitmq配置除了 host 项均为默认值， host 项默认为localhost
+    host: 192.168.235.104
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/

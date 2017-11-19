@@ -53,6 +53,9 @@
         <module>springzuulgateway</module>
         <module>firstrabbit</module>
         <module>firstkafka</module>
+        <module>springmsgserver</module>
+        <module>springmsgproducer</module>
+        <module>springmsgconsumer</module>
     </modules>
 
 
