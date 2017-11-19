@@ -56,6 +56,8 @@
         <module>springmsgserver</module>
         <module>springmsgproducer</module>
         <module>springmsgconsumer</module>
+        <module>springmsgconsumer2</module>
+        <module>springmsgconsumer3</module>
     </modules>
 
 

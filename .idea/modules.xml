@@ -47,6 +47,8 @@
       <module fileurl="file://$PROJECT_DIR$/springlbprovider/springlbprovider.iml" filepath="$PROJECT_DIR$/springlbprovider/springlbprovider.iml" />
       <module fileurl="file://$PROJECT_DIR$/springlbserver/springlbserver.iml" filepath="$PROJECT_DIR$/springlbserver/springlbserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/springmsgconsumer/springmsgconsumer.iml" filepath="$PROJECT_DIR$/springmsgconsumer/springmsgconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmsgconsumer2/springmsgconsumer2.iml" filepath="$PROJECT_DIR$/springmsgconsumer2/springmsgconsumer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmsgconsumer3/springmsgconsumer3.iml" filepath="$PROJECT_DIR$/springmsgconsumer3/springmsgconsumer3.iml" />
       <module fileurl="file://$PROJECT_DIR$/springmsgproducer/springmsgproducer.iml" filepath="$PROJECT_DIR$/springmsgproducer/springmsgproducer.iml" />
       <module fileurl="file://$PROJECT_DIR$/springmsgserver/springmsgserver.iml" filepath="$PROJECT_DIR$/springmsgserver/springmsgserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/springzuulgateway/springzuulgateway.iml" filepath="$PROJECT_DIR$/springzuulgateway/springzuulgateway.iml" />

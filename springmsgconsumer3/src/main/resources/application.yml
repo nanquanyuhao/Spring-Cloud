@@ -1,14 +1,11 @@
 server:
-  port: 8080
+  port: 8083
 spring:
   application:
-    name: spring-msg-producer
+    name: spring-msg-consumer3
   rabbitmq:
 # 此处使用的rabbitmq配置除了 host 项均为默认值， host 项默认为localhost
     host: 192.168.235.104
-#    port: 5672
-#    username: guest
-#    password: guest
 # kafka的地址配置据进行实际情况进行变更
   cloud:
     stream:
@@ -16,6 +13,10 @@ spring:
        binder:
          brokers: 192.168.235.104
          zkNodes: 192.168.235.104
+# 以下为分组配置
+      bindings:
+        myInput:
+          group: groupB
 eureka:
   client:
     serviceUrl:

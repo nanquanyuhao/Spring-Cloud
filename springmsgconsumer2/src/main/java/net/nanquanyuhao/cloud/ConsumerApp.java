@@ -22,6 +22,6 @@ public class ConsumerApp {
 
     @StreamListener("myInput")
     public void onReceive(byte[] msg){
-        System.out.println("消费者1，接收即时消息：" + new String(msg));
+        System.out.println("消费者2，接收即时消息：" + new String(msg));
     }
 }

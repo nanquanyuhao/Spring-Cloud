@@ -50,6 +50,8 @@
         <module name="springlbprovider" />
         <module name="springlbserver" />
         <module name="springmsgconsumer" />
+        <module name="springmsgconsumer2" />
+        <module name="springmsgconsumer3" />
         <module name="springmsgproducer" />
         <module name="springmsgserver" />
         <module name="springzuulgateway" />
@@ -101,6 +103,8 @@
       <module name="springlbprovider" target="1.5" />
       <module name="springlbserver" target="1.5" />
       <module name="springmsgconsumer" target="1.5" />
+      <module name="springmsgconsumer2" target="1.5" />
+      <module name="springmsgconsumer3" target="1.5" />
       <module name="springmsgproducer" target="1.5" />
       <module name="springmsgserver" target="1.5" />
       <module name="springzuulgateway" target="1.5" />
