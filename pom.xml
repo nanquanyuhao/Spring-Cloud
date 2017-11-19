@@ -58,6 +58,7 @@
         <module>springmsgconsumer</module>
         <module>springmsgconsumer2</module>
         <module>springmsgconsumer3</module>
+        <module>testbootstrap</module>
     </modules>
 
 

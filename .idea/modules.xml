@@ -55,6 +55,7 @@
       <module fileurl="file://$PROJECT_DIR$/springzuulmember/springzuulmember.iml" filepath="$PROJECT_DIR$/springzuulmember/springzuulmember.iml" />
       <module fileurl="file://$PROJECT_DIR$/springzuulsale/springzuulsale.iml" filepath="$PROJECT_DIR$/springzuulsale/springzuulsale.iml" />
       <module fileurl="file://$PROJECT_DIR$/springzuulserver/springzuulserver.iml" filepath="$PROJECT_DIR$/springzuulserver/springzuulserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testbootstrap/testbootstrap.iml" filepath="$PROJECT_DIR$/testbootstrap/testbootstrap.iml" />
       <module fileurl="file://$PROJECT_DIR$/userribbon/userribbon.iml" filepath="$PROJECT_DIR$/userribbon/userribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuulfirstrouter/zuulfirstrouter.iml" filepath="$PROJECT_DIR$/zuulfirstrouter/zuulfirstrouter.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuulfirstsource/zuulfirstsource.iml" filepath="$PROJECT_DIR$/zuulfirstsource/zuulfirstsource.iml" />
