@@ -5,7 +5,7 @@ spring:
     name: ek-invoker
 eureka:
   client:
-# 每5秒去注册中心抓取服务列表，默认30秒
+# 每多少秒去注册中心抓取服务列表，默认30秒
     registry-fetch-interval-seconds: 30
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/

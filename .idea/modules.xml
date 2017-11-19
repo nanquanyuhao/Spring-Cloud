@@ -19,8 +19,10 @@
       <module fileurl="file://$PROJECT_DIR$/firstboot/firstboot.iml" filepath="$PROJECT_DIR$/firstboot/firstboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/firsthyclient/firsthyclient.iml" filepath="$PROJECT_DIR$/firsthyclient/firsthyclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/firsthyserver/firsthyserver.iml" filepath="$PROJECT_DIR$/firsthyserver/firsthyserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstkafka/firstkafka.iml" filepath="$PROJECT_DIR$/firstkafka/firstkafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstperson/firstperson.iml" filepath="$PROJECT_DIR$/firstperson/firstperson.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstpolice/firstpolice.iml" filepath="$PROJECT_DIR$/firstpolice/firstpolice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstrabbit/firstrabbit.iml" filepath="$PROJECT_DIR$/firstrabbit/firstrabbit.iml" />
       <module fileurl="file://$PROJECT_DIR$/hyuse1/hyuse1.iml" filepath="$PROJECT_DIR$/hyuse1/hyuse1.iml" />
       <module fileurl="file://$PROJECT_DIR$/hyuse2/hyuse2.iml" filepath="$PROJECT_DIR$/hyuse2/hyuse2.iml" />
       <module fileurl="file://$PROJECT_DIR$/hyuse3/hyuse3.iml" filepath="$PROJECT_DIR$/hyuse3/hyuse3.iml" />
@@ -44,6 +46,11 @@
       <module fileurl="file://$PROJECT_DIR$/springlbinvoker/springlbinvoker.iml" filepath="$PROJECT_DIR$/springlbinvoker/springlbinvoker.iml" />
       <module fileurl="file://$PROJECT_DIR$/springlbprovider/springlbprovider.iml" filepath="$PROJECT_DIR$/springlbprovider/springlbprovider.iml" />
       <module fileurl="file://$PROJECT_DIR$/springlbserver/springlbserver.iml" filepath="$PROJECT_DIR$/springlbserver/springlbserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmsgconsumer/springmsgconsumer.iml" filepath="$PROJECT_DIR$/springmsgconsumer/springmsgconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmsgconsumer2/springmsgconsumer2.iml" filepath="$PROJECT_DIR$/springmsgconsumer2/springmsgconsumer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmsgconsumer3/springmsgconsumer3.iml" filepath="$PROJECT_DIR$/springmsgconsumer3/springmsgconsumer3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmsgproducer/springmsgproducer.iml" filepath="$PROJECT_DIR$/springmsgproducer/springmsgproducer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmsgserver/springmsgserver.iml" filepath="$PROJECT_DIR$/springmsgserver/springmsgserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/springzuulgateway/springzuulgateway.iml" filepath="$PROJECT_DIR$/springzuulgateway/springzuulgateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/springzuulmember/springzuulmember.iml" filepath="$PROJECT_DIR$/springzuulmember/springzuulmember.iml" />
       <module fileurl="file://$PROJECT_DIR$/springzuulsale/springzuulsale.iml" filepath="$PROJECT_DIR$/springzuulsale/springzuulsale.iml" />

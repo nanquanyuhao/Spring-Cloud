@@ -1,0 +1,22 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: spring-msg-producer
+  rabbitmq:
+# 此处使用的rabbitmq配置除了 host 项均为默认值， host 项默认为localhost
+    host: 192.168.235.104
+#    port: 5672
+#    username: guest
+#    password: guest
+# kafka的地址配置据进行实际情况进行变更
+  cloud:
+    stream:
+      kafka:
+       binder:
+         brokers: 192.168.235.104
+         zkNodes: 192.168.235.104
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/

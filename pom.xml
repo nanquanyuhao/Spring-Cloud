@@ -51,6 +51,13 @@
         <module>springzuulmember</module>
         <module>springzuulsale</module>
         <module>springzuulgateway</module>
+        <module>firstrabbit</module>
+        <module>firstkafka</module>
+        <module>springmsgserver</module>
+        <module>springmsgproducer</module>
+        <module>springmsgconsumer</module>
+        <module>springmsgconsumer2</module>
+        <module>springmsgconsumer3</module>
     </modules>
 
 
