@@ -47,6 +47,20 @@
             <artifactId>httpclient</artifactId>
             <version>4.5.2</version>
         </dependency>
+        <!-- 以下配置为打开失败提前，需要重试的依赖 -->
+        <!-- https://mvnrepository.com/artifact/org.springframework.retry/spring-retry -->
+        <dependency>
+            <groupId>org.springframework.retry</groupId>
+            <artifactId>spring-retry</artifactId>
+            <version>1.2.1.RELEASE</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-aop -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-aop</artifactId>
+            <version>1.5.8.RELEASE</version>
+        </dependency>
+
     </dependencies>
 
 </project>

@@ -6,6 +6,9 @@ spring:
 #    name: config-client
   cloud:
     config:
+      username: root # 所登陆拉取信息的服务端用户名
+      password: nanquanyuhao # 所登陆拉取信息的服务端密码
+      fail-fast: false
       url: http://localhost:8888
       profile: dev,zuul # 若使用spring.application.name 默认读取文件 config-client-dev.yml
 #      name: config-client2 # 读取文件 config-client2-dev.yml

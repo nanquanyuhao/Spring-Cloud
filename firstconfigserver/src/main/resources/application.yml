@@ -26,3 +26,11 @@ spring:
           password: 12345
 # 默认会在trunk目录下寻找配置文件
           default-label: test-label
+        health:
+          repositories:
+            test-service:
+              label: health-test # 服务器健康状态被检测的目录
+security:
+  user:
+    name: root # 设置此配置服务器的用户名
+    password: nanquanyuhao # 设置此配置服务器的登录密码
