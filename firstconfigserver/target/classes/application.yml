@@ -3,6 +3,16 @@ server:
 management:
   security:
     enabled: false
+# 配置加密的 key——对称加密方式
+#encrypt:
+#  key: nanquanyuhao
+# 非对称加密方式
+encrypt:
+  key-store:
+    location: classpath:/myTest.keystore # keystore文件位置
+    password: 123456
+    alias: testKey
+    secret: 123456
 spring:
   profiles:
     active: subversion
