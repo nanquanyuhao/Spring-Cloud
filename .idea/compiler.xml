@@ -18,9 +18,16 @@
         <module name="ekinvoker" />
         <module name="ekprovider" />
         <module name="ekserver" />
+        <module name="eurekabus" />
+        <module name="eurekaconfigclient" />
+        <module name="eurekaconfigserver" />
+        <module name="eurekaserver" />
+        <module name="eurekazuul" />
         <module name="feignclient" />
         <module name="first114" />
         <module name="firstboot" />
+        <module name="firstconfigclient" />
+        <module name="firstconfigserver" />
         <module name="firsthyclient" />
         <module name="firsthyserver" />
         <module name="firstkafka" />
@@ -58,6 +65,7 @@
         <module name="springzuulmember" />
         <module name="springzuulsale" />
         <module name="springzuulserver" />
+        <module name="testbootstrap" />
         <module name="userribbon" />
         <module name="zuulfirstrouter" />
         <module name="zuulfirstsource" />
@@ -73,9 +81,16 @@
       <module name="ek-invoker" target="1.5" />
       <module name="ek-provider" target="1.5" />
       <module name="ek-server" target="1.5" />
+      <module name="eurekabus" target="1.5" />
+      <module name="eurekaconfigclient" target="1.5" />
+      <module name="eurekaconfigserver" target="1.5" />
+      <module name="eurekaserver" target="1.5" />
+      <module name="eurekazuul" target="1.5" />
       <module name="feignclient" target="1.5" />
       <module name="first114" target="1.5" />
       <module name="firstboot" target="1.5" />
+      <module name="firstconfigclient" target="1.5" />
+      <module name="firstconfigserver" target="1.5" />
       <module name="firsthyclient" target="1.5" />
       <module name="firsthyserver" target="1.5" />
       <module name="firstkafka" target="1.5" />
@@ -111,6 +126,7 @@
       <module name="springzuulmember" target="1.5" />
       <module name="springzuulsale" target="1.5" />
       <module name="springzuulserver" target="1.5" />
+      <module name="testbootstrap" target="1.5" />
       <module name="userribbon" target="1.5" />
       <module name="zuulfirstrouter" target="1.5" />
       <module name="zuulfirstsource" target="1.5" />
