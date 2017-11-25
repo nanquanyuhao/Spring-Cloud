@@ -61,6 +61,11 @@
         <module>testbootstrap</module>
         <module>firstconfigserver</module>
         <module>firstconfigclient</module>
+        <module>eurekaserver</module>
+        <module>eurekaconfigclient</module>
+        <module>eurekaconfigserver</module>
+        <module>eurekazuul</module>
+        <module>eurekabus</module>
     </modules>
 
 

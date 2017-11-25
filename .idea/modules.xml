@@ -14,6 +14,11 @@
       <module fileurl="file://F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\ekinvoker\ekinvoker.iml" filepath="F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\ekinvoker\ekinvoker.iml" />
       <module fileurl="file://F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\ekprovider\ekprovider.iml" filepath="F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\ekprovider\ekprovider.iml" />
       <module fileurl="file://F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\ekserver\ekserver.iml" filepath="F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\ekserver\ekserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekabus/eurekabus.iml" filepath="$PROJECT_DIR$/eurekabus/eurekabus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaconfigclient/eurekaconfigclient.iml" filepath="$PROJECT_DIR$/eurekaconfigclient/eurekaconfigclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaconfigserver/eurekaconfigserver.iml" filepath="$PROJECT_DIR$/eurekaconfigserver/eurekaconfigserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekazuul/eurekazuul.iml" filepath="$PROJECT_DIR$/eurekazuul/eurekazuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/feignclient/feignclient.iml" filepath="$PROJECT_DIR$/feignclient/feignclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/first114/first114.iml" filepath="$PROJECT_DIR$/first114/first114.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstboot/firstboot.iml" filepath="$PROJECT_DIR$/firstboot/firstboot.iml" />

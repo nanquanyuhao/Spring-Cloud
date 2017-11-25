@@ -13,7 +13,7 @@ public class TestClient {
 
     public static void main(String[] args) throws Exception{
         CloseableHttpClient client = HttpClients.createDefault();
-        HttpPost post = new HttpPost("http://localhost:8080/refresh");
+        HttpPost post = new HttpPost("http://localhost:10001/bus/refresh");
 
         HttpResponse response = client.execute(post);
         System.out.println(EntityUtils.toString(response.getEntity()));

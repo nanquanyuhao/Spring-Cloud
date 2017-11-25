@@ -18,6 +18,11 @@
         <module name="ekinvoker" />
         <module name="ekprovider" />
         <module name="ekserver" />
+        <module name="eurekabus" />
+        <module name="eurekaconfigclient" />
+        <module name="eurekaconfigserver" />
+        <module name="eurekaserver" />
+        <module name="eurekazuul" />
         <module name="feignclient" />
         <module name="first114" />
         <module name="firstboot" />
@@ -76,6 +81,11 @@
       <module name="ek-invoker" target="1.5" />
       <module name="ek-provider" target="1.5" />
       <module name="ek-server" target="1.5" />
+      <module name="eurekabus" target="1.5" />
+      <module name="eurekaconfigclient" target="1.5" />
+      <module name="eurekaconfigserver" target="1.5" />
+      <module name="eurekaserver" target="1.5" />
+      <module name="eurekazuul" target="1.5" />
       <module name="feignclient" target="1.5" />
       <module name="first114" target="1.5" />
       <module name="firstboot" target="1.5" />
