@@ -67,6 +67,7 @@
         <module name="springzuulserver" />
         <module name="testbootstrap" />
         <module name="testjpa" />
+        <module name="testmongo" />
         <module name="userribbon" />
         <module name="zuulfirstrouter" />
         <module name="zuulfirstsource" />
@@ -129,6 +130,7 @@
       <module name="springzuulserver" target="1.5" />
       <module name="testbootstrap" target="1.5" />
       <module name="testjpa" target="1.5" />
+      <module name="testmongo" target="1.5" />
       <module name="userribbon" target="1.5" />
       <module name="zuulfirstrouter" target="1.5" />
       <module name="zuulfirstsource" target="1.5" />

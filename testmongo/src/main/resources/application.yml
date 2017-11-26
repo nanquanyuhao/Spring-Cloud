@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://192.168.235.102:27017/crazyit # MongDB3.0 之后的驱动不支持单独设置属性，建议使用 uri
+#      uri: mongodb://test:123456@192.168.235.102:27017/crazyit 没搞定鉴权的情况，以后再说
