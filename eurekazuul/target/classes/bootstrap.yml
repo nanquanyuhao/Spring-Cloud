@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: eureka-config-zuul
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        service-id: eureka-config-server
+      profile: dev # eureka-config-zuul-dev.yml
+  rabbitmq:
+      host: 192.168.235.104
+server:
+  port: 9000
+management:
+  security:
+    enabled: false
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/

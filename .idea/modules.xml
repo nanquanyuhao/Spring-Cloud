@@ -14,9 +14,16 @@
       <module fileurl="file://F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\ekinvoker\ekinvoker.iml" filepath="F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\ekinvoker\ekinvoker.iml" />
       <module fileurl="file://F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\ekprovider\ekprovider.iml" filepath="F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\ekprovider\ekprovider.iml" />
       <module fileurl="file://F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\ekserver\ekserver.iml" filepath="F:\idea\ideaIU-2017.1.4.win\IdeaProjects\springcloud\ekserver\ekserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekabus/eurekabus.iml" filepath="$PROJECT_DIR$/eurekabus/eurekabus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaconfigclient/eurekaconfigclient.iml" filepath="$PROJECT_DIR$/eurekaconfigclient/eurekaconfigclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaconfigserver/eurekaconfigserver.iml" filepath="$PROJECT_DIR$/eurekaconfigserver/eurekaconfigserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekazuul/eurekazuul.iml" filepath="$PROJECT_DIR$/eurekazuul/eurekazuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/feignclient/feignclient.iml" filepath="$PROJECT_DIR$/feignclient/feignclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/first114/first114.iml" filepath="$PROJECT_DIR$/first114/first114.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstboot/firstboot.iml" filepath="$PROJECT_DIR$/firstboot/firstboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstconfigclient/firstconfigclient.iml" filepath="$PROJECT_DIR$/firstconfigclient/firstconfigclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstconfigserver/firstconfigserver.iml" filepath="$PROJECT_DIR$/firstconfigserver/firstconfigserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/firsthyclient/firsthyclient.iml" filepath="$PROJECT_DIR$/firsthyclient/firsthyclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/firsthyserver/firsthyserver.iml" filepath="$PROJECT_DIR$/firsthyserver/firsthyserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstkafka/firstkafka.iml" filepath="$PROJECT_DIR$/firstkafka/firstkafka.iml" />
@@ -55,6 +62,9 @@
       <module fileurl="file://$PROJECT_DIR$/springzuulmember/springzuulmember.iml" filepath="$PROJECT_DIR$/springzuulmember/springzuulmember.iml" />
       <module fileurl="file://$PROJECT_DIR$/springzuulsale/springzuulsale.iml" filepath="$PROJECT_DIR$/springzuulsale/springzuulsale.iml" />
       <module fileurl="file://$PROJECT_DIR$/springzuulserver/springzuulserver.iml" filepath="$PROJECT_DIR$/springzuulserver/springzuulserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testbootstrap/testbootstrap.iml" filepath="$PROJECT_DIR$/testbootstrap/testbootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testjpa/testjpa.iml" filepath="$PROJECT_DIR$/testjpa/testjpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testmongo/testmongo.iml" filepath="$PROJECT_DIR$/testmongo/testmongo.iml" />
       <module fileurl="file://$PROJECT_DIR$/userribbon/userribbon.iml" filepath="$PROJECT_DIR$/userribbon/userribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuulfirstrouter/zuulfirstrouter.iml" filepath="$PROJECT_DIR$/zuulfirstrouter/zuulfirstrouter.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuulfirstsource/zuulfirstsource.iml" filepath="$PROJECT_DIR$/zuulfirstsource/zuulfirstsource.iml" />
