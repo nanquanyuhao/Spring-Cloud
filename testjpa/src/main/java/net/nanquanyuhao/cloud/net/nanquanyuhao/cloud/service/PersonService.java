@@ -23,4 +23,24 @@ public class PersonService {
     public List<Person> myQuery(){
         return personDao.myQuery();
     }
+
+    public List<Person> name(String name){
+        return personDao.name(name);
+    }
+
+    public List<Person> nameAndAge(String name, int age){
+        return personDao.findByNameAndAge(name, age);
+    }
+
+    public List<Person> ageLessThan(int age){
+        return personDao.findByAgeLessThan(age);
+    }
+
+    public List<Person> findPersonName(String name){
+        return personDao.findByPersonName(name);
+    }
+
+    public List<Person> findNativeName(String name){
+        return personDao.findNativeName(name);
+    }
 }
