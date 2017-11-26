@@ -66,6 +66,8 @@
         <module>eurekaconfigserver</module>
         <module>eurekazuul</module>
         <module>eurekabus</module>
+        <module>testjpa</module>
+        <module>testmongo</module>
     </modules>
 
 
