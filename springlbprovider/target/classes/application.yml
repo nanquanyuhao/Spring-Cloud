@@ -1,7 +1,0 @@
-spring:
-  application:
-    name: spring-lb-provider
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8761/eureka/
